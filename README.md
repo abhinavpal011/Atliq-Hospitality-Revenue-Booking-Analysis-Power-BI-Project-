@@ -89,3 +89,4 @@ Cancellation Rate =
 DIVIDE([Cancelled Bookings], [Total Bookings])
 
 Avg Stay Duration = AVERAGE(bookings[stay_days])
+![WhatsApp Image 2026-02-15 at 4 05 17 PM (2)](https://github.com/user-attachments/assets/adbe204e-fd9c-4261-b1af-f60e963cc77f)
